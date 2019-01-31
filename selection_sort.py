@@ -1,6 +1,8 @@
 '''
     In selection sort, select an element from an array (from first or last) and compare it with other
     elements and swap if required.
+    
+    Time Complexity : O(n*2)
 '''
 '''
     INPUT: Array that needed to be sorted.
